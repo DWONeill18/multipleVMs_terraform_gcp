@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd ~
+git clone https://github.com/DWONeill18/MEAN_scripts.git
+cd MEAN_scripts/
+./mean_script.sh
+
+

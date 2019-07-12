@@ -1,0 +1,2 @@
+gcloud iam service-accounts keys create ~/.gcp/terraform_key.json
+ --iam-account test-service-account@david-02031990.iam.gserviceaccount.com
